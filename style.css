@@ -16,9 +16,9 @@ body {
 }
 .first-heading {
   padding-left: 10px;
-  font-size: 50px;
+  font-size: 60px;
   font-family: "Noto Serif", serif;
-  line-height: 50px;
+  line-height: 40px;
 }
 .indian-red {
   color: #cd5c5c;
